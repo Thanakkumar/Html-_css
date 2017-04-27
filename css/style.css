@@ -1,0 +1,142 @@
+body
+{
+	margin:0;
+}
+header h1
+{
+font-family: 'Kaushan Script', cursive;
+font-size: 18px;
+}
+nav ul
+{
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+nav ul li
+{ padding-top: 10px;
+	padding-right:5px;
+	display:block;
+	float:left;
+	
+}
+nav ul li a:hover
+{
+	 color:white;
+	 background-color:orange;
+	 text-decoration:none;
+}
+nav ul li a{
+text-align: center;
+padding:4px 5px;
+color: white;
+text-decoration:none;
+
+}
+nav
+{
+	background-color: black;
+	height:70px;
+}
+h1{
+	font-size: 20px;
+	color:black;
+	
+}
+.header img
+{
+	height:70px;
+	width:70px;
+}
+
+.header{
+	height:70px;
+	background-color: orange;
+	position: fixed;
+	text-align:center;
+
+}
+header h1
+{
+	padding-top: 10px;
+}
+.mid {
+	background:url("../images/midpic.jpg") no-repeat;
+	margin-left: 0;
+
+	width:960px;
+	height:680px;
+	
+}
+.fourtht
+{
+	float:right;
+	background-color:yellow;
+}
+.fourthtw
+{
+	float:right;
+	background-color:orange;
+}
+.fourthtwo
+{
+	float:right;
+	background-color:yellow;
+}
+footer ul
+{
+	list-style-type:none;
+
+}
+footer
+{
+	background-color:#ffff80;
+	color: black;
+	font-family: 'Kaushan Script', cursive;
+	text-align: center;
+	font-size: 13px;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+.third
+{
+	background-color: gray;
+	font-family: 'Roboto', sans-serif;
+
+}
+.third h4
+{marg:0;
+	font-family: 'Timmana', sans-serif;
+}
+.ffourth
+{
+	font-family: 'Oswald', sans-serif;
+}
+.fourth1 img {
+	height:387px;
+	width:325px;
+
+}
+.fourth2 img {
+	height:387px;
+	width:325px;
+}
+.fourth1 h4
+{
+padding:0;
+}
+
+.tag_name{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.topic
+{margin-top:0px;
+margin-bottom: 0px;
+}
+.content{
+margin-top:0px;
+}
+.image2
+{
+	margin-top:0px;
+}
